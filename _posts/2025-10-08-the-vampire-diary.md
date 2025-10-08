@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Vampire Diary"
+title:  "The Vampire Diary 🦇" 
 speaker: "Dr. Michael Rawson"
 location: "Building 59P, Room 1003"
 time: "12:00 - 13:00"
