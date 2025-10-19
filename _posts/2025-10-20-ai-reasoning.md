@@ -2,7 +2,7 @@
 layout: post
 title:  "How Do AI Systems Reason? A Study in Logic"
 speaker: "Dr. Alexander Gheorghiu"
-location: "Building 59P, Room 1003"
+location: "Building 59, Room 1257"
 time: "12:00 - 13:00"
 ---
 
