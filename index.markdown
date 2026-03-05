@@ -4,7 +4,9 @@ title: Home
 ---
 
 # Logic Seminars
-Here you can find all logic seminars, and a schedule for future ones [here](https://sotonac-my.sharepoint.com/:x:/g/personal/jmmg1c24_soton_ac_uk/EYfw8Tg9DdtNsHLqqdiy47UBLqt4fazyoDzmxdcjvN1TuQ?e=UN0lgY).
+Here you can find all logic seminars.
+There is also a repeating monthly pub meetup on the first friday of every month.
+<!-- , and a schedule for future ones [here](https://sotonac-my.sharepoint.com/:x:/g/personal/jmmg1c24_soton_ac_uk/EYfw8Tg9DdtNsHLqqdiy47UBLqt4fazyoDzmxdcjvN1TuQ?e=UN0lgY). -->
 
 ## Upcoming Seminars & Events
 {% assign future_events = site.posts | where_exp: "post", "post.date > site.time" | sort: "date" %}
